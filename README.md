@@ -1,34 +1,42 @@
-## Hola soy Luis, conocido como Cheems Code   👋
+# 👋🏻 &nbsp;&nbsp;Hi there, I am Luis
 
-<div align="center">
-  <a href="https://github.com/cheems-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheems-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheems-dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cheems-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cheems-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cheems-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cheems-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cheems-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Cheems-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Cheems-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Cheems-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"> 
-  <img align="center" alt="Cheems-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Cheems-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="Cheems-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-  <img align="right" alt="Cheems-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/iQ9IoqRWknMAAAAC/doge-dance.gif">
-</div>
- 
- ##
-  
-<div> 
-  <a href="https://www.youtube.com/channel/UC0J1vue7cW_Xq1oriEJqcvg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luisdevcode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.behance.net/luisclpz" target="_blank"><img src="https://img.shields.io/badge/Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href = "mailto:daprimovaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-c-2b6b19171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/cheems-dev/snk/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+I’m a front-end developer. I have worked on projects with a development environment based on React.js or Next.js. I also have experience in the layout and integration of web applications using tools like GitHub, Notion and ClickUp. Furthermore, I like to work in teams, and I enjoy I am learning new things.
+
+## 🎯 &nbsp;&nbsp;Some technologies I use:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-components" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNU Bash" />
+</p>
+
+## ⚒️ &nbsp;&nbsp;My projects:
+
+- [Hypatia](https://hypatiamac.herokuapp.com/)
+
+Hypatia was created for students who want to access MAC (Mathematics Applied to Computation) course resources.
+The stack used by the development team was: Next.js, docker-compose, Node.js, Javascript and Css
+
+- [Ask game](https://cheems-dev.github.io/ask-game/)
+
+This project is a quiz game. You have to ask a question. You can see the project here
+
+- [Quantum Computing Simulation with Genetic algorithms](https://github.com/CHEEMS-DEV/QUANTUM-INSPIRED-EVOLUTIONARY-ALGORITHM)
+
+We used C++ to create a framework with structures simulating Qubits (quantum bits) and quantum physics theory,rotations, quantum gates to optimise the NP Knapsack problem using genetic algorithms. I obtained optimisation peaks in the first simulation cycles.
+
+## 📈 &nbsp;&nbsp;Some of my stats are:
+
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=cheems-dev&theme=buefy&show_icons=true&hide=contribs" />
+</p>
