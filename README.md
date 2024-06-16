@@ -1,8 +1,10 @@
-# 👋🏻 &nbsp;&nbsp;Hi there, I am Luis
+# 👋🏻 &nbsp;&nbsp;Hola, soy Luis.
 
-I’m a front-end developer. I have worked on projects with a development environment based on React.js or Next.js. I also have experience in the layout and integration of web applications using tools like GitHub, Notion and ClickUp. Furthermore, I like to work in teams, and I enjoy I am learning new things.
+Soy un desarrollador experimentado con una sólida trayectoria en la entrega de soluciones tecnológicas de
+calidad. ✨🚀 Mi portafolio destaca proyectos exitosos que reflejan mi habilidad para enfrentar desafíos y
+superar expectativas. Mira mi portafolio ➡️🌐 https://cutt.ly/RwyqzNDJ
 
-## 🎯 &nbsp;&nbsp;Some technologies I use:
+## 🎯 &nbsp;&nbsp;Algunas de las tecnologías que utilizo::
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
@@ -18,22 +20,35 @@ I’m a front-end developer. I have worked on projects with a development enviro
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNU Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+
 </p>
 
 ## ⚒️ &nbsp;&nbsp;My projects:
 
-- [Hypatia](https://hypatiamac.herokuapp.com/)
+- [UPCH Conect](https://upch-0002-cv-front.vercel.app/)
 
-Hypatia was created for students who want to access MAC (Mathematics Applied to Computation) course resources.
-The stack used by the development team was: Next.js, docker-compose, Node.js, Javascript and Css
+Plataforma profesional en línea exclusiva para la comunidad de la Universidad Peruana Cayetano Heredia (UPCH), inspirada en LinkedIn, que facilite la conexión, colaboración y desarrollo profesional de estudiantes, egresados, docentes y personal administrativo.
 
-- [Ask game](https://cheems-dev.github.io/ask-game/)
 
-This project is a quiz game. You have to ask a question. You can see the project here
+- [Campus Cayetano](https://develop-starqui.dzpc2216lds8b.amplifyapp.com/Login/)
 
-- [Quantum Computing Simulation with Genetic algorithms](https://github.com/CHEEMS-DEV/QUANTUM-INSPIRED-EVOLUTIONARY-ALGORITHM)
+Campus Cayetano es una innovadora plataforma digital diseñada para la comunidad estudiantil de la Universidad Peruana Cayetano Heredia (UPCH). Esta herramienta busca simplificar y modernizar los procesos administrativos, permitiendo a los estudiantes gestionar sus trámites documentarios de manera eficiente, segura y accesible desde cualquier lugar.
 
-We used C++ to create a framework with structures simulating Qubits (quantum bits) and quantum physics theory,rotations, quantum gates to optimise the NP Knapsack problem using genetic algorithms. I obtained optimisation peaks in the first simulation cycles.
+- [BackOffice Academico](https://develop-starqui.dpz5ufoq6bhno.amplifyapp.com/auth)
+
+El BackOffice Académico es una plataforma digital exclusiva para el personal administrativo de la Universidad Peruana Cayetano Heredia (UPCH). Diseñada para optimizar la gestión interna, esta herramienta permite al personal administrativo supervisar y gestionar los trámites generados por los estudiantes, garantizando un procesamiento eficiente y personalizado según los procedimientos y políticas institucionales.
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 
